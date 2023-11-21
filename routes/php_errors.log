@@ -1,0 +1,12 @@
+[21-Nov-2023 00:45:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in C:\inetpub\wwwroot\dtSearch\api-rest\routes\api.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\dtSearch\api-rest\routes\api.php on line 28
+[21-Nov-2023 00:45:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in C:\inetpub\wwwroot\dtSearch\api-rest\routes\web.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\dtSearch\api-rest\routes\web.php on line 16
+[21-Nov-2023 00:45:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in C:\inetpub\wwwroot\dtSearch\api-rest\routes\console.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\dtSearch\api-rest\routes\console.php on line 17
